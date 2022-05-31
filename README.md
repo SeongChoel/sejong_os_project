@@ -1,5 +1,5 @@
 # open-source-project
-Sejong Uni. Open Source Project
+세종대학교 오픈소스SW 프로젝트입니다.
 
 ###### Controls
 - 'LEFT' and 'RIGHT' arrow keys to move
